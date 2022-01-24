@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 2e139d12-71d2-1d5c-aeea-b5f296fc40d9
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: external-1d56e22db747469fb3eb7edccccada57
+  name: Quantum Information Science II, Part 1
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.371.1x+2T2018/about
+  weight: 1000
+- identifier: external-74cd17eb3a0b471fbac9c9020aaee8aa
+  name: Quantum Information Science II, Part 2
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.371.2x+1T2018/about
+  weight: 1010
+- identifier: external-d7b30f740bdc442095d8a94a3f57aaf2
+  name: Quantum Information Science II, Part 3
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.371.3x+1T2018/about
+  weight: 1020
